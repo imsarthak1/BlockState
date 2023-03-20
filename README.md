@@ -1,4 +1,4 @@
-# BlockChain Based Real Estate
+# BlockState
 
 Blockchain based Land Registration and transfer of entitlement system where the land ownership and all its details are stored in the Blockchain with zero chances of forgery in ownership.
 
